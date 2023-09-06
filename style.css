@@ -147,3 +147,15 @@ background-color: rgb(175, 191, 214);
 .po:hover{
     color: #fff;
 }
+
+
+.lkj{
+    background-color: aqua;
+    color: #000000;
+    padding: 30px 15px 30px 15px;
+    border-radius: 122px;
+    display: inline;
+    font-size: 28px;
+    margin: 10px;
+    box-shadow: 1px 0px 10px 6px #57606f;
+}
