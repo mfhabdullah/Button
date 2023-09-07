@@ -5,76 +5,76 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    }
-    .abc{
-        text-align: center;
-        margin: auto;
-        padding-top: 100px;
-        font-size: 232px;
-    }
-    .ab{
-        text-decoration: none;
-        background-color: rgb(106, 39, 214);
-        color: antiquewhite;
-        padding: 1% 2% 1% 2%;
-        font-size: 20px;
-        border-radius: 30% 0% 30% 0%;
-        margin: 8% 0% 0% 1%;
-        transition: 0.5s;
+}
+.abc{
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+    font-size: 232px;
+}
+.ab{
+    text-decoration: none;
+    background-color: rgb(106, 39, 214);
+    color: antiquewhite;
+    padding: 1% 2% 1% 2%;
+    font-size: 20px;
+    border-radius: 30% 0% 30% 0%;
+    margin: 8% 0% 0% 1%;
+    transition: 0.5s;
     }
         
-    .ab i {
-        color: antiquewhite;
-     }
-    .ab:hover{   
-        color: aliceblue;
-        border-radius: 0% 30% 0% 30%;
-    }
+.ab i {
+    color: antiquewhite;
+}
+.ab:hover{   
+    color: aliceblue;
+    border-radius: 0% 30% 0% 30%;
+}
 
 
 
 
 
-    .na{
-        text-decoration: none;
-        background-color: gold;
-       
-        padding: 1% 2% 1% 2%;
-        font-size: 20px;
-        color: black;
-        border-radius: 30% 0% 0% 0%;
-        margin: 3% 0% 0% 1%;
-        transition: 1s;
-        display: inline-flex;
-    }
-    .na .ad{
-        text-decoration:none; 
-        color: #000;
-    }
-    .na:hover {
-        background-color: rgb(0, 0, 0);
+.na{
+    text-decoration: none;
+    background-color: gold;       
+    padding: 1% 2% 1% 2%;
+    font-size: 20px;
+    color: black;
+    border-radius: 30% 0% 0% 0%;
+    margin: 3% 0% 0% 1%;
+    transition: 1s;
+    display: inline-flex;
+}
+.na .ad{
+    text-decoration:none; 
+    color: #000;
+}
+.na:hover {
+    background-color: rgb(0, 0, 0);
      
-    }
+}
+
 .na .ad:hover{
     color: gold;
 }
 
-     .haf{
-        text-decoration:none;
-        font-size: 129%;
-        display: inline-flex;
-        height: auto;
-        width: 103;
-        background-color: #6F1E51;
-        padding: 10px 7px 10px 7px;
-        border-radius: 6px;
-        margin-left: 10px;
-        transition: 1s;
-    }
-    .haf .af{
-        text-decoration:none;
-        color: white;
-    }
+.haf{
+    text-decoration:none;
+    font-size: 129%;
+    display: inline-flex;
+    height: auto;
+    width: 103;
+    background-color: #6F1E51;
+    padding: 10px 7px 10px 7px;
+    border-radius: 6px;
+    margin-left: 10px;
+    transition: 1s;
+}
+.haf .af{
+    text-decoration:none;
+    color: white;
+}
     
 .haf:hover{
 
@@ -89,8 +89,7 @@
 
 
 .sss{
-    background-color: rgb(255, 0, 0);
-    
+    background-color: rgb(255, 0, 0);    
     display: inline-flex;
     padding: 10px 10px 10px 10px;
     border-radius: 22px 22px 22px 0px;
