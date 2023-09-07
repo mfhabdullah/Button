@@ -191,21 +191,19 @@
     width: 500px;
     height: 250px;
 }
-.green:hover{
-    background-color:aliceblue;
-    width: 500px;
-    height: 250px;
-}
-
 
 .red{
     background-color: red;
-    width: 35%;
-    height: 70%;
+    width: 40%;
+    height: 80%;
     border-radius: 60%;
     display: flex;
     position: relative;
     left: 30%;
-    top: 15%;
+    top: 10%;
 }
-
+.io{
+    width: 74%;
+    height: 77%;
+    margin: 25px 0px 0px 19px;
+}
