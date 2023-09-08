@@ -192,22 +192,6 @@
 }
 
 
-.green{
-    background-color: green;
-    width: 500px;
-    height: 250px;
-}
-
-.red{
-    background-color: red;
-    width: 40%;
-    height: 80%;
-    border-radius: 60%;
-    display: flex;
-    position: relative;
-    left: 30%;
-    top: 10%;
-}
 .io{
     width: 74%;
     height: 77%;
