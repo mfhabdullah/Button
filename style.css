@@ -6,10 +6,23 @@
     background-size: cover;
     background-position: center;
 }
+<<<<<<< HEAD
 .abc{
     text-align: center;
     margin: auto;
     padding-top: 100px;
+=======
+.Button{
+    width: 60%;
+    font-size: 90%;
+    color: blanchedalmond;
+    margin: 0% 0% 0% 17%;
+}
+.abc{
+    text-align: center;
+    margin: auto;
+    padding-top: 0px;
+>>>>>>> 8656342 (12th commit)
     font-size: 232px;
 }
 .ab{
