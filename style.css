@@ -6,24 +6,18 @@
     background-size: cover;
     background-position: center;
 }
-<<<<<<< HEAD
-.abc{
-    text-align: center;
-    margin: auto;
-    padding-top: 100px;
-=======
 .Button{
     width: 60%;
-    font-size: 90%;
+    font-size: 750%;
     color: blanchedalmond;
-    margin: 0% 0% 0% 17%;
+    margin: 6% 0% 0% 29%;
+    position: absolute;
 }
-.abc{
-    text-align: center;
-    margin: auto;
-    padding-top: 0px;
->>>>>>> 8656342 (12th commit)
-    font-size: 232px;
+.poi{
+    text-decoration: none;
+    color: antiquewhite;
+    margin-top: 10px;
+    font-size: larger;
 }
 .ab{
     text-decoration: none;
@@ -164,8 +158,8 @@
 
 
 .lkj{
-    width: 76px;
-    height: 76px;
+    width: 68px;
+    height: 68px;
     border-radius: 50%;
     background-color: aqua;
     display: inline-flex;
@@ -177,7 +171,7 @@
     text-decoration: none;
     font-size: 28px;
     color: #000000;
-    padding: 22px 0px 0px 7px;
+    padding: 17px 0px 0px 4px;
     text-shadow: 1px 3px 3px black;
 }
 
@@ -199,24 +193,57 @@
 }
 
 
-.green{
-    background-color: green;
-    width: 500px;
-    height: 250px;
-}
-
-.red{
-    background-color: red;
-    width: 40%;
-    height: 80%;
-    border-radius: 60%;
-    display: flex;
-    position: relative;
-    left: 30%;
-    top: 10%;
-}
 .io{
     width: 74%;
     height: 77%;
     margin: 25px 0px 0px 19px;
 }
+    .you{
+        background-color: darkgrey;
+        width: 45px;
+        height: 45px;
+        border-radius: 25px;
+        margin: 0px 0px 0px 29px;
+        box-shadow: 1px 0px 10px 6px;
+    }
+    .be{
+        margin: 2px 0px 0px 11px;
+        color: darkgray;
+        position: absolute;
+    }
+    .tu{
+        width: 31px;
+        height: 21px;
+        margin: 12px 0px 0px 7px;
+        background-color: red;
+        border-radius: 6px 6px 6px 6px;
+        position: absolute;
+    }
+    p{
+        font-style: initial;
+        margin: 6px 0px 0px 24px;
+    }
+
+
+
+    .goo{
+        display: inline-flex;
+        background-color: darkgray;
+        width: 45px;
+        height: 45px;
+        border-radius: 35px;
+        box-shadow: 0px 0px 5px 3px black;
+        margin: 25px 0px 0px 28px;
+    }
+
+    .gle{
+        font-size: 30px;
+        color: lightyellow;
+        margin: 7px 0px 0px 7px;
+        position: absolute;
+    }
+
+    .oo{
+        font-style: initial;
+        margin: 3px 0px 0px 25px;
+    }
